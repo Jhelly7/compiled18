@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=5481145,RESOLUTION=1920x1080
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled18@job-inapropriados-s01-ep08-b8/inapropriados-s01-ep08-b8/hls/index.m3u8
